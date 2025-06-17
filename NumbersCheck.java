@@ -6,4 +6,4 @@ public class NumbersCheck {
             System.out.println(intArr[i]+output+intArr[i+1]);
         }
     }
-}
+} 
